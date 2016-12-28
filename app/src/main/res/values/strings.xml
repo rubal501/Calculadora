@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="num_one">1</string>
+    <string name="num_two">2</string>
 </resources>
